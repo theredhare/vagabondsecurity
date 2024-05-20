@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vagabond Security Research</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Vagabond Security Research</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 May 2024 10:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Page</title>
+      <link>//localhost:1313/test-page/</link>
+      <pubDate>Wed, 22 May 2024 10:00:00 +0000</pubDate>
+      <guid>//localhost:1313/test-page/</guid>
+      <description>Heading 1 This is a paragraph with some text. You can bold or italicize text as well.&#xA;Heading 2 Another paragraph with a link, and an image:&#xA;Heading 3 Here&amp;rsquo;s an unordered list:&#xA;Item 1 Item 2 Item 3 And a code block:&#xA;&amp;lt;div class=&amp;#34;example&amp;#34;&amp;gt; &amp;lt;p&amp;gt;This is a code block&amp;lt;/p&amp;gt; &amp;lt;/div&amp;gt; </description>
+    </item>
+    <item>
+      <title>enumeration</title>
+      <link>//localhost:1313/phase/enumeration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/phase/enumeration/</guid>
+      <description>Content about enumeration phase goes here.</description>
+    </item>
+    <item>
+      <title>exploitation</title>
+      <link>//localhost:1313/phase/exploitation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/phase/exploitation/</guid>
+      <description>Content about exploitation phase goes here.</description>
+    </item>
+    <item>
+      <title>Kerberos</title>
+      <link>//localhost:1313/services/kerberos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/services/kerberos/</guid>
+      <description>Content about Kerberos service goes here.</description>
+    </item>
+    <item>
+      <title>LDAP</title>
+      <link>//localhost:1313/services/ldap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/services/ldap/</guid>
+      <description>Content about LDAP service goes here.</description>
+    </item>
+    <item>
+      <title>Search Page</title>
+      <link>//localhost:1313/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/search/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>SMB</title>
+      <link>//localhost:1313/services/smb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/services/smb/</guid>
+      <description>Content about SMB service goes here.</description>
+    </item>
+  </channel>
+</rss>

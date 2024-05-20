@@ -1,0 +1,18 @@
+baseURL = "/"
+#"www.vagabondsecurity.io"
+#"https://theredhare.github.io/avagabond"
+languageCode = "en-us"
+title = "Vagabond Security Research"
+theme = "hugo-index"
+
+[params]
+  titleIcon = "index.png"
+  buildSearchIndex = true
+
+[taxonomies]
+  tag = "tags"
+  phase = "phase"
+  services = "services"
+
+[outputs]
+  home = ["HTML", "JSON"]

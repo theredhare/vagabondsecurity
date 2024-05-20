@@ -1,0 +1,26 @@
+[{
+      "title": "enumeration",
+      "permalink": "//localhost:1313/phase/enumeration/",
+      "tags": ["enumeration"],
+      "content": "Content about enumeration phase goes here.\n"
+    },{
+      "title": "exploitation",
+      "permalink": "//localhost:1313/phase/exploitation/",
+      "tags": ["exploitation"],
+      "content": "Content about exploitation phase goes here.\n"
+    },{
+      "title": "Kerberos",
+      "permalink": "//localhost:1313/service/kerberos/",
+      "tags": ["Kerberos"],
+      "content": "Content about Kerberos service goes here.\n"
+    },{
+      "title": "LDAP",
+      "permalink": "//localhost:1313/service/ldap/",
+      "tags": ["LDAP"],
+      "content": "Content about LDAP service goes here.\n"
+    },{
+      "title": "SMB",
+      "permalink": "//localhost:1313/service/smb/",
+      "tags": ["SMB"],
+      "content": "Content about SMB service goes here.\n"
+    }]
