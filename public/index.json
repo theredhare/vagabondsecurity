@@ -1,12 +1,12 @@
 [{
-      "title": "enumeration",
+      "title": "Enumeration",
       "permalink": "//localhost:1313/phase/enumeration/",
-      "tags": ["enumeration"],
+      "tags": ["Enumeration"],
       "content": "Content about enumeration phase goes here.\n"
     },{
-      "title": "exploitation",
+      "title": "Exploitation",
       "permalink": "//localhost:1313/phase/exploitation/",
-      "tags": ["exploitation"],
+      "tags": ["Exploitation"],
       "content": "Content about exploitation phase goes here.\n"
     },{
       "title": "Kerberos",
@@ -23,4 +23,14 @@
       "permalink": "//localhost:1313/service/smb/",
       "tags": ["SMB"],
       "content": "Content about SMB service goes here.\n"
+    },{
+      "title": "Username",
+      "permalink": "//localhost:1313/credentials/username/",
+      "tags": ["Username"],
+      "content": "Content about username component goes here.\n"
+    },{
+      "title": "Windows",
+      "permalink": "//localhost:1313/platform/windows/",
+      "tags": ["Windows"],
+      "content": "Content about Windows platform goes here.\n"
     }]
