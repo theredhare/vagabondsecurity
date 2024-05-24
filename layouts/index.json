@@ -1,12 +1,11 @@
-{{- $pages := where .Site.RegularPages "Type" "!=" "page" -}}
-[
-  {{- range $index, $page := $pages -}}
-    {{- if $index }},{{ end -}}
-    {
-      "title": {{ $page.Title | jsonify }},
-      "permalink": {{ $page.Permalink | jsonify }},
-      "tags": {{ $page.Params.tags | jsonify }},
-      "content": {{ $page.Plain | jsonify }}
-    }
-  {{- end -}}
-]
+{{- $commands := .Site.GetPage "/commands" -}}
+{{- $pages := $commands.RegularPages -}}
+{{- $data := slice -}}
+{{- range $pages -}}
+    {{- $tags := .Params.tags | default (slice) -}}
+    {{- $command := .Params.command | default "" -}}
+    {{- $content := .Plain -}}
+    {{- $item := dict "title" .Title "command" $command "content" $content "tags" $tags "permalink" .Permalink -}}
+    {{- $data = $data | append $item -}}
+{{- end -}}
+{{- $data | jsonify -}}

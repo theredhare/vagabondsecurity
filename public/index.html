@@ -36,60 +36,78 @@
     <div class="section-wrapper">
       <h2>credentials</h2>
       <ul class="tags-list">
-        <li class="tag-item"><a href="/tags/username">Username</a></li>
+        <li class="tag-item" data-tag="Username">Username</li>
       </ul>
     </div>
     <div class="section-wrapper">
       <h2>platform</h2>
       <ul class="tags-list">
-        <li class="tag-item"><a href="/tags/windows">Windows</a></li>
+        <li class="tag-item" data-tag="Windows">Windows</li>
       </ul>
     </div>
     <div class="section-wrapper">
       <h2>phase</h2>
       <ul class="tags-list">
-        <li class="tag-item"><a href="/tags/enumeration">Enumeration</a></li>
-        <li class="tag-item"><a href="/tags/exploitation">Exploitation</a></li>
+        <li class="tag-item" data-tag="Enumeration">Enumeration</li>
+        <li class="tag-item" data-tag="Exploitation">Exploitation</li>
       </ul>
     </div>
     <div class="section-wrapper">
       <h2>service</h2>
       <ul class="tags-list">
-        <li class="tag-item"><a href="/tags/kerberos">Kerberos</a></li>
-        <li class="tag-item"><a href="/tags/ldap">LDAP</a></li>
-        <li class="tag-item"><a href="/tags/smb">SMB</a></li>
+        <li class="tag-item" data-tag="Kerberos">Kerberos</li>
+        <li class="tag-item" data-tag="LDAP">LDAP</li>
+        <li class="tag-item" data-tag="SMB">SMB</li>
       </ul>
     </div>
+    <script>
+      document.querySelectorAll('.tag-item').forEach(tag => {
+        tag.addEventListener('click', function(event) {
+          
+          event.preventDefault();
+    
+          
+          this.classList.toggle('selected');
+    
+          
+          if (this.classList.contains('selected')) {
+            this.style.backgroundColor = '#ffcc00'; 
+          } else {
+            this.style.backgroundColor = ''; 
+          }
+        });
+      });
+    </script>                        
   </div>
 </div>
 <div class="searchBox">
     <input id="search" autofocus type="search" placeholder='' autocomplete="off" />
 </div>
 <table class="tableList">
-  <thead>
-    <tr>
-    </tr>
-  </thead>
   <tbody id="tableListBody">
-    <tr>
-      <td><a href="//localhost:1313/test-page/">Test Page</a></td>
-      <td>
-        <ul class="tagsList">
-          <li><a href="//localhost:1313/tags/kerberos/">Kerberos</a></li>
-          <li><a href="//localhost:1313/tags/exploitation/">Exploitation</a></li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td><a href="//localhost:1313/search/">Search Page</a></td>
-      <td>
-        <ul class="tagsList">
-        </ul>
-      </td>
-    </tr>
+    
   </tbody>
 </table>
-</div><footer>
+
+<script type="text/template" id="title-row-template">
+  <tr>
+    <td colspan="2"><strong class="command-title"></strong></td>
+  </tr>
+</script>
+
+<script type="text/template" id="command-row-template">
+  <tr>
+    <td colspan="2"><span class="command-text"></span></td>
+  </tr>
+</script>
+
+<script type="text/template" id="tags-row-template">
+  <tr>
+    <td colspan="2">
+      <ul class="tagsList"></ul>
+    </td>
+  </tr>
+</script></div><footer>
     <hr>
     <div class="footer-text">
         <div>© 2024 Vagabond Security Research</div>

@@ -6,7 +6,15 @@
     <description>Recent content in SMB on Vagabond Security Research</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 23 May 2024 10:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/tags/smb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Crackmapexec Userenum</title>
+      <link>//localhost:1313/commands/crackmapexec-userenum/</link>
+      <pubDate>Thu, 23 May 2024 10:00:00 +0000</pubDate>
+      <guid>//localhost:1313/commands/crackmapexec-userenum/</guid>
+      <description></description>
+    </item>
     <item>
       <title>SMB</title>
       <link>//localhost:1313/service/smb/</link>

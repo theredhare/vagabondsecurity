@@ -33,22 +33,30 @@
 <div class="main">
 
 <div class="content"></div><table class="tableList">
-  <thead>
-    <tr>
-    </tr>
-  </thead>
   <tbody id="tableListBody">
-    <tr>
-      <td><a href="//localhost:1313/platform/windows/">Windows</a></td>
-      <td>
-        <ul class="tagsList">
-          <li><a href="//localhost:1313/tags/windows/">Windows</a></li>
-        </ul>
-      </td>
-    </tr>
+    
   </tbody>
 </table>
-</div><footer>
+
+<script type="text/template" id="title-row-template">
+  <tr>
+    <td colspan="2"><strong class="command-title"></strong></td>
+  </tr>
+</script>
+
+<script type="text/template" id="command-row-template">
+  <tr>
+    <td colspan="2"><span class="command-text"></span></td>
+  </tr>
+</script>
+
+<script type="text/template" id="tags-row-template">
+  <tr>
+    <td colspan="2">
+      <ul class="tagsList"></ul>
+    </td>
+  </tr>
+</script></div><footer>
     <hr>
     <div class="footer-text">
         <div>© 2024 Vagabond Security Research</div>

@@ -2,24 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/tags/exploitation/</loc>
-    <lastmod>2024-05-22T10:00:00+00:00</lastmod>
+    <loc>//localhost:1313/commands/</loc>
+    <lastmod>2024-05-23T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/commands/crackmapexec-userenum/</loc>
+    <lastmod>2024-05-23T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/enumeration/</loc>
+    <lastmod>2024-05-23T10:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/kerberos/</loc>
-    <lastmod>2024-05-22T10:00:00+00:00</lastmod>
+    <lastmod>2024-05-23T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/commands/kerbrute-userenum/</loc>
+    <lastmod>2024-05-23T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/smb/</loc>
+    <lastmod>2024-05-23T10:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/</loc>
+    <lastmod>2024-05-23T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2024-05-23T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/windows/</loc>
+    <lastmod>2024-05-23T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/exploitation/</loc>
     <lastmod>2024-05-22T10:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/test-page/</loc>
     <lastmod>2024-05-22T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
-    <lastmod>2024-05-22T10:00:00+00:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/credentials/</loc>
-  </url><url>
-    <loc>//localhost:1313/tags/enumeration/</loc>
   </url><url>
     <loc>//localhost:1313/phase/enumeration/</loc>
   </url><url>
@@ -41,15 +57,11 @@
   </url><url>
     <loc>//localhost:1313/services/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/smb/</loc>
-  </url><url>
     <loc>//localhost:1313/service/smb/</loc>
   </url><url>
     <loc>//localhost:1313/tags/username/</loc>
   </url><url>
     <loc>//localhost:1313/credentials/username/</loc>
-  </url><url>
-    <loc>//localhost:1313/tags/windows/</loc>
   </url><url>
     <loc>//localhost:1313/platform/windows/</loc>
   </url>
