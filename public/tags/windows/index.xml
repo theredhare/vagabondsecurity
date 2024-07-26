@@ -2,31 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Windows on Vagabond Security Research</title>
-    <link>//localhost:1313/tags/windows/</link>
+    <link>http://localhost:1313/tags/windows/</link>
     <description>Recent content in Windows on Vagabond Security Research</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 May 2024 10:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/windows/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Crackmapexec Userenum</title>
-      <link>//localhost:1313/commands/crackmapexec-userenum/</link>
+      <link>http://localhost:1313/commands/crackmapexec-userenum/</link>
       <pubDate>Thu, 23 May 2024 10:00:00 +0000</pubDate>
-      <guid>//localhost:1313/commands/crackmapexec-userenum/</guid>
+      <guid>http://localhost:1313/commands/crackmapexec-userenum/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Impacket GetNPUsers Basic Request</title>
+      <link>http://localhost:1313/commands/impacket-getnpusers-basic/</link>
+      <pubDate>Thu, 23 May 2024 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/commands/impacket-getnpusers-basic/</guid>
       <description></description>
     </item>
     <item>
       <title>Kerbrute Userenum</title>
-      <link>//localhost:1313/commands/kerbrute-userenum/</link>
+      <link>http://localhost:1313/commands/kerbrute-userenum/</link>
       <pubDate>Thu, 23 May 2024 10:00:00 +0000</pubDate>
-      <guid>//localhost:1313/commands/kerbrute-userenum/</guid>
+      <guid>http://localhost:1313/commands/kerbrute-userenum/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LDAPsearch Basic</title>
+      <link>http://localhost:1313/commands/ldapsearch-samaccount/</link>
+      <pubDate>Thu, 23 May 2024 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/commands/ldapsearch-samaccount/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SMBClient No Creds</title>
+      <link>http://localhost:1313/commands/smbclient-nocreds/</link>
+      <pubDate>Thu, 23 May 2024 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/commands/smbclient-nocreds/</guid>
       <description></description>
     </item>
     <item>
       <title>Windows</title>
-      <link>//localhost:1313/platform/windows/</link>
+      <link>http://localhost:1313/platform/windows/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/platform/windows/</guid>
+      <guid>http://localhost:1313/platform/windows/</guid>
       <description>Content about Windows platform goes here.</description>
     </item>
   </channel>

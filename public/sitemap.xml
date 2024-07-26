@@ -2,67 +2,113 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/commands/</loc>
+    <loc>http://localhost:1313/commands/</loc>
     <lastmod>2024-05-23T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/commands/crackmapexec-userenum/</loc>
+    <loc>http://localhost:1313/commands/crackmapexec-userenum/</loc>
     <lastmod>2024-05-23T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/enumeration/</loc>
+    <loc>http://localhost:1313/tags/dns/</loc>
     <lastmod>2024-05-23T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/kerberos/</loc>
+    <loc>http://localhost:1313/tags/enumeration/</loc>
     <lastmod>2024-05-23T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/commands/kerbrute-userenum/</loc>
+    <loc>http://localhost:1313/commands/impacket-getnpusers-basic/</loc>
     <lastmod>2024-05-23T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/smb/</loc>
+    <loc>http://localhost:1313/tags/kerberos/</loc>
     <lastmod>2024-05-23T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/commands/kerbrute-userenum/</loc>
     <lastmod>2024-05-23T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>http://localhost:1313/tags/ldap/</loc>
     <lastmod>2024-05-23T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/windows/</loc>
+    <loc>http://localhost:1313/commands/ldapsearch-nocreds/</loc>
     <lastmod>2024-05-23T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/exploitation/</loc>
+    <loc>http://localhost:1313/commands/ldapsearch-samaccount/</loc>
+    <lastmod>2024-05-23T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/naming-context/</loc>
+    <lastmod>2024-05-23T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/commands/ldapsearch-namingcontext/</loc>
+    <lastmod>2024-05-23T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/commands/nslookup-basic/</loc>
+    <lastmod>2024-05-23T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/rpc/</loc>
+    <lastmod>2024-05-23T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/commands/rpcclient-basic/</loc>
+    <lastmod>2024-05-23T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/samaccount/</loc>
+    <lastmod>2024-05-23T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/smb/</loc>
+    <lastmod>2024-05-23T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/commands/smbclient-nocreds/</loc>
+    <lastmod>2024-05-23T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-05-23T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tgt/</loc>
+    <lastmod>2024-05-23T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/username/</loc>
+    <lastmod>2024-05-23T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/windows/</loc>
+    <lastmod>2024-05-23T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/exploitation/</loc>
     <lastmod>2024-05-22T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/test-page/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-05-22T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/credentials/</loc>
+    <loc>http://localhost:1313/test-page/</loc>
+    <lastmod>2024-05-22T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/phase/enumeration/</loc>
+    <loc>http://localhost:1313/credentials/</loc>
   </url><url>
-    <loc>//localhost:1313/phase/exploitation/</loc>
+    <loc>http://localhost:1313/service/dns/</loc>
   </url><url>
-    <loc>//localhost:1313/service/kerberos/</loc>
+    <loc>http://localhost:1313/phase/enumeration/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/ldap/</loc>
+    <loc>http://localhost:1313/phase/exploitation/</loc>
   </url><url>
-    <loc>//localhost:1313/service/ldap/</loc>
+    <loc>http://localhost:1313/service/kerberos/</loc>
   </url><url>
-    <loc>//localhost:1313/phase/</loc>
+    <loc>http://localhost:1313/service/ldap/</loc>
   </url><url>
-    <loc>//localhost:1313/platform/</loc>
+    <loc>http://localhost:1313/credentials/ldap-namingcontext/</loc>
   </url><url>
-    <loc>//localhost:1313/search/</loc>
+    <loc>http://localhost:1313/phase/</loc>
   </url><url>
-    <loc>//localhost:1313/service/</loc>
+    <loc>http://localhost:1313/platform/</loc>
   </url><url>
-    <loc>//localhost:1313/services/</loc>
+    <loc>http://localhost:1313/service/rpc/</loc>
   </url><url>
-    <loc>//localhost:1313/service/smb/</loc>
+    <loc>http://localhost:1313/credentials/samaccount/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/username/</loc>
+    <loc>http://localhost:1313/service/</loc>
   </url><url>
-    <loc>//localhost:1313/credentials/username/</loc>
+    <loc>http://localhost:1313/services/</loc>
   </url><url>
-    <loc>//localhost:1313/platform/windows/</loc>
+    <loc>http://localhost:1313/service/smb/</loc>
+  </url><url>
+    <loc>http://localhost:1313/credentials/tgt/</loc>
+  </url><url>
+    <loc>http://localhost:1313/credentials/username/</loc>
+  </url><url>
+    <loc>http://localhost:1313/platform/windows/</loc>
   </url>
 </urlset>

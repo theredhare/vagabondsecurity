@@ -1,6 +1,4 @@
-baseURL = "/"
-#"www.vagabondsecurity.io"
-#"https://theredhare.github.io/avagabond"
+baseURL = "https://theredhare.github.io/"
 languageCode = "en-us"
 title = "Vagabond Security Research"
 theme = "hugo-index"

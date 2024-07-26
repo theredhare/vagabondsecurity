@@ -2,16 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LDAP on Vagabond Security Research</title>
-    <link>//localhost:1313/tags/ldap/</link>
+    <link>http://localhost:1313/tags/ldap/</link>
     <description>Recent content in LDAP on Vagabond Security Research</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/tags/ldap/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 May 2024 10:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ldap/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LDAPsearch Basic</title>
+      <link>http://localhost:1313/commands/ldapsearch-nocreds/</link>
+      <pubDate>Thu, 23 May 2024 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/commands/ldapsearch-nocreds/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LDAPsearch Basic</title>
+      <link>http://localhost:1313/commands/ldapsearch-samaccount/</link>
+      <pubDate>Thu, 23 May 2024 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/commands/ldapsearch-samaccount/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>nslookup</title>
+      <link>http://localhost:1313/commands/ldapsearch-namingcontext/</link>
+      <pubDate>Thu, 23 May 2024 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/commands/ldapsearch-namingcontext/</guid>
+      <description></description>
+    </item>
     <item>
       <title>LDAP</title>
-      <link>//localhost:1313/service/ldap/</link>
+      <link>http://localhost:1313/service/ldap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/service/ldap/</guid>
+      <guid>http://localhost:1313/service/ldap/</guid>
       <description>Content about LDAP service goes here.</description>
     </item>
   </channel>
