@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DNS on Vagabond Security Research</title>
-    <link>http://localhost:1313/tags/dns/</link>
+    <link>https://theredhare.github.io/tags/dns/</link>
     <description>Recent content in DNS on Vagabond Security Research</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 May 2024 10:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/dns/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://theredhare.github.io/tags/dns/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>nslookup</title>
-      <link>http://localhost:1313/commands/nslookup-basic/</link>
+      <link>https://theredhare.github.io/commands/nslookup-basic/</link>
       <pubDate>Thu, 23 May 2024 10:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/commands/nslookup-basic/</guid>
+      <guid>https://theredhare.github.io/commands/nslookup-basic/</guid>
       <description></description>
     </item>
     <item>
       <title>rpcclient</title>
-      <link>http://localhost:1313/commands/rpcclient-basic/</link>
+      <link>https://theredhare.github.io/commands/rpcclient-basic/</link>
       <pubDate>Thu, 23 May 2024 10:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/commands/rpcclient-basic/</guid>
+      <guid>https://theredhare.github.io/commands/rpcclient-basic/</guid>
       <description></description>
     </item>
     <item>
       <title>DNS</title>
-      <link>http://localhost:1313/service/dns/</link>
+      <link>https://theredhare.github.io/service/dns/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/service/dns/</guid>
+      <guid>https://theredhare.github.io/service/dns/</guid>
       <description>Content about DNS service goes here.</description>
     </item>
   </channel>

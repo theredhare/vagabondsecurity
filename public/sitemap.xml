@@ -2,113 +2,113 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/commands/</loc>
+    <loc>https://theredhare.github.io/commands/</loc>
     <lastmod>2024-05-23T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/commands/crackmapexec-userenum/</loc>
+    <loc>https://theredhare.github.io/commands/crackmapexec-userenum/</loc>
     <lastmod>2024-05-23T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/dns/</loc>
+    <loc>https://theredhare.github.io/tags/dns/</loc>
     <lastmod>2024-05-23T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/enumeration/</loc>
+    <loc>https://theredhare.github.io/tags/enumeration/</loc>
     <lastmod>2024-05-23T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/commands/impacket-getnpusers-basic/</loc>
+    <loc>https://theredhare.github.io/commands/impacket-getnpusers-basic/</loc>
     <lastmod>2024-05-23T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/kerberos/</loc>
+    <loc>https://theredhare.github.io/tags/kerberos/</loc>
     <lastmod>2024-05-23T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/commands/kerbrute-userenum/</loc>
+    <loc>https://theredhare.github.io/commands/kerbrute-userenum/</loc>
     <lastmod>2024-05-23T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ldap/</loc>
+    <loc>https://theredhare.github.io/tags/ldap/</loc>
     <lastmod>2024-05-23T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/commands/ldapsearch-nocreds/</loc>
+    <loc>https://theredhare.github.io/commands/ldapsearch-nocreds/</loc>
     <lastmod>2024-05-23T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/commands/ldapsearch-samaccount/</loc>
+    <loc>https://theredhare.github.io/commands/ldapsearch-samaccount/</loc>
     <lastmod>2024-05-23T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/naming-context/</loc>
+    <loc>https://theredhare.github.io/tags/naming-context/</loc>
     <lastmod>2024-05-23T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/commands/ldapsearch-namingcontext/</loc>
+    <loc>https://theredhare.github.io/commands/ldapsearch-namingcontext/</loc>
     <lastmod>2024-05-23T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/commands/nslookup-basic/</loc>
+    <loc>https://theredhare.github.io/commands/nslookup-basic/</loc>
     <lastmod>2024-05-23T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/rpc/</loc>
+    <loc>https://theredhare.github.io/tags/rpc/</loc>
     <lastmod>2024-05-23T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/commands/rpcclient-basic/</loc>
+    <loc>https://theredhare.github.io/commands/rpcclient-basic/</loc>
     <lastmod>2024-05-23T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/samaccount/</loc>
+    <loc>https://theredhare.github.io/tags/samaccount/</loc>
     <lastmod>2024-05-23T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/smb/</loc>
+    <loc>https://theredhare.github.io/tags/smb/</loc>
     <lastmod>2024-05-23T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/commands/smbclient-nocreds/</loc>
+    <loc>https://theredhare.github.io/commands/smbclient-nocreds/</loc>
     <lastmod>2024-05-23T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://theredhare.github.io/tags/</loc>
     <lastmod>2024-05-23T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/tgt/</loc>
+    <loc>https://theredhare.github.io/tags/tgt/</loc>
     <lastmod>2024-05-23T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/username/</loc>
+    <loc>https://theredhare.github.io/tags/username/</loc>
     <lastmod>2024-05-23T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/windows/</loc>
+    <loc>https://theredhare.github.io/tags/windows/</loc>
     <lastmod>2024-05-23T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/exploitation/</loc>
+    <loc>https://theredhare.github.io/tags/exploitation/</loc>
     <lastmod>2024-05-22T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://theredhare.github.io/</loc>
     <lastmod>2024-05-22T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/test-page/</loc>
+    <loc>https://theredhare.github.io/test-page/</loc>
     <lastmod>2024-05-22T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/credentials/</loc>
+    <loc>https://theredhare.github.io/credentials/</loc>
   </url><url>
-    <loc>http://localhost:1313/service/dns/</loc>
+    <loc>https://theredhare.github.io/service/dns/</loc>
   </url><url>
-    <loc>http://localhost:1313/phase/enumeration/</loc>
+    <loc>https://theredhare.github.io/phase/enumeration/</loc>
   </url><url>
-    <loc>http://localhost:1313/phase/exploitation/</loc>
+    <loc>https://theredhare.github.io/phase/exploitation/</loc>
   </url><url>
-    <loc>http://localhost:1313/service/kerberos/</loc>
+    <loc>https://theredhare.github.io/service/kerberos/</loc>
   </url><url>
-    <loc>http://localhost:1313/service/ldap/</loc>
+    <loc>https://theredhare.github.io/service/ldap/</loc>
   </url><url>
-    <loc>http://localhost:1313/credentials/ldap-namingcontext/</loc>
+    <loc>https://theredhare.github.io/credentials/ldap-namingcontext/</loc>
   </url><url>
-    <loc>http://localhost:1313/phase/</loc>
+    <loc>https://theredhare.github.io/phase/</loc>
   </url><url>
-    <loc>http://localhost:1313/platform/</loc>
+    <loc>https://theredhare.github.io/platform/</loc>
   </url><url>
-    <loc>http://localhost:1313/service/rpc/</loc>
+    <loc>https://theredhare.github.io/service/rpc/</loc>
   </url><url>
-    <loc>http://localhost:1313/credentials/samaccount/</loc>
+    <loc>https://theredhare.github.io/credentials/samaccount/</loc>
   </url><url>
-    <loc>http://localhost:1313/service/</loc>
+    <loc>https://theredhare.github.io/service/</loc>
   </url><url>
-    <loc>http://localhost:1313/services/</loc>
+    <loc>https://theredhare.github.io/services/</loc>
   </url><url>
-    <loc>http://localhost:1313/service/smb/</loc>
+    <loc>https://theredhare.github.io/service/smb/</loc>
   </url><url>
-    <loc>http://localhost:1313/credentials/tgt/</loc>
+    <loc>https://theredhare.github.io/credentials/tgt/</loc>
   </url><url>
-    <loc>http://localhost:1313/credentials/username/</loc>
+    <loc>https://theredhare.github.io/credentials/username/</loc>
   </url><url>
-    <loc>http://localhost:1313/platform/windows/</loc>
+    <loc>https://theredhare.github.io/platform/windows/</loc>
   </url>
 </urlset>

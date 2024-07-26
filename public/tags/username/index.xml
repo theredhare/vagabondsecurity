@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Username on Vagabond Security Research</title>
-    <link>http://localhost:1313/tags/username/</link>
+    <link>https://theredhare.github.io/tags/username/</link>
     <description>Recent content in Username on Vagabond Security Research</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 May 2024 10:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/username/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://theredhare.github.io/tags/username/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>rpcclient</title>
-      <link>http://localhost:1313/commands/rpcclient-basic/</link>
+      <link>https://theredhare.github.io/commands/rpcclient-basic/</link>
       <pubDate>Thu, 23 May 2024 10:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/commands/rpcclient-basic/</guid>
+      <guid>https://theredhare.github.io/commands/rpcclient-basic/</guid>
       <description></description>
     </item>
     <item>
       <title>Username</title>
-      <link>http://localhost:1313/credentials/username/</link>
+      <link>https://theredhare.github.io/credentials/username/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/credentials/username/</guid>
+      <guid>https://theredhare.github.io/credentials/username/</guid>
       <description>Content about username component goes here.</description>
     </item>
   </channel>
