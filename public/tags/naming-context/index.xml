@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Naming Context on Vagabond Security Research</title>
-    <link>https://theredhare.github.io/tags/naming-context/</link>
+    <link>http://localhost:1313/tags/naming-context/</link>
     <description>Recent content in Naming Context on Vagabond Security Research</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 May 2024 10:00:00 +0000</lastBuildDate>
-    <atom:link href="https://theredhare.github.io/tags/naming-context/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/naming-context/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>nslookup</title>
-      <link>https://theredhare.github.io/commands/ldapsearch-namingcontext/</link>
+      <link>http://localhost:1313/commands/ldapsearch-namingcontext/</link>
       <pubDate>Thu, 23 May 2024 10:00:00 +0000</pubDate>
-      <guid>https://theredhare.github.io/commands/ldapsearch-namingcontext/</guid>
+      <guid>http://localhost:1313/commands/ldapsearch-namingcontext/</guid>
       <description></description>
     </item>
     <item>
       <title>LDAP Naming Context</title>
-      <link>https://theredhare.github.io/credentials/ldap-namingcontext/</link>
+      <link>http://localhost:1313/credentials/ldap-namingcontext/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://theredhare.github.io/credentials/ldap-namingcontext/</guid>
+      <guid>http://localhost:1313/credentials/ldap-namingcontext/</guid>
       <description>Content about LDAP Naming Context component goes here.</description>
     </item>
   </channel>

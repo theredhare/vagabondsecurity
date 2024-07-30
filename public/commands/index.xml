@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Commands on Vagabond Security Research</title>
-    <link>https://theredhare.github.io/commands/</link>
+    <link>http://localhost:1313/commands/</link>
     <description>Recent content in Commands on Vagabond Security Research</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 May 2024 10:00:00 +0000</lastBuildDate>
-    <atom:link href="https://theredhare.github.io/commands/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/commands/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Crackmapexec Userenum</title>
-      <link>https://theredhare.github.io/commands/crackmapexec-userenum/</link>
+      <link>http://localhost:1313/commands/crackmapexec-userenum/</link>
       <pubDate>Thu, 23 May 2024 10:00:00 +0000</pubDate>
-      <guid>https://theredhare.github.io/commands/crackmapexec-userenum/</guid>
+      <guid>http://localhost:1313/commands/crackmapexec-userenum/</guid>
       <description></description>
     </item>
     <item>
       <title>Impacket GetNPUsers Basic Request</title>
-      <link>https://theredhare.github.io/commands/impacket-getnpusers-basic/</link>
+      <link>http://localhost:1313/commands/impacket-getnpusers-basic/</link>
       <pubDate>Thu, 23 May 2024 10:00:00 +0000</pubDate>
-      <guid>https://theredhare.github.io/commands/impacket-getnpusers-basic/</guid>
+      <guid>http://localhost:1313/commands/impacket-getnpusers-basic/</guid>
       <description></description>
     </item>
     <item>
       <title>Kerbrute Userenum</title>
-      <link>https://theredhare.github.io/commands/kerbrute-userenum/</link>
+      <link>http://localhost:1313/commands/kerbrute-userenum/</link>
       <pubDate>Thu, 23 May 2024 10:00:00 +0000</pubDate>
-      <guid>https://theredhare.github.io/commands/kerbrute-userenum/</guid>
+      <guid>http://localhost:1313/commands/kerbrute-userenum/</guid>
       <description></description>
     </item>
     <item>
       <title>LDAPsearch Basic</title>
-      <link>https://theredhare.github.io/commands/ldapsearch-nocreds/</link>
+      <link>http://localhost:1313/commands/ldapsearch-nocreds/</link>
       <pubDate>Thu, 23 May 2024 10:00:00 +0000</pubDate>
-      <guid>https://theredhare.github.io/commands/ldapsearch-nocreds/</guid>
+      <guid>http://localhost:1313/commands/ldapsearch-nocreds/</guid>
       <description></description>
     </item>
     <item>
       <title>LDAPsearch Basic</title>
-      <link>https://theredhare.github.io/commands/ldapsearch-samaccount/</link>
+      <link>http://localhost:1313/commands/ldapsearch-samaccount/</link>
       <pubDate>Thu, 23 May 2024 10:00:00 +0000</pubDate>
-      <guid>https://theredhare.github.io/commands/ldapsearch-samaccount/</guid>
+      <guid>http://localhost:1313/commands/ldapsearch-samaccount/</guid>
       <description></description>
     </item>
     <item>
       <title>nslookup</title>
-      <link>https://theredhare.github.io/commands/ldapsearch-namingcontext/</link>
+      <link>http://localhost:1313/commands/ldapsearch-namingcontext/</link>
       <pubDate>Thu, 23 May 2024 10:00:00 +0000</pubDate>
-      <guid>https://theredhare.github.io/commands/ldapsearch-namingcontext/</guid>
+      <guid>http://localhost:1313/commands/ldapsearch-namingcontext/</guid>
       <description></description>
     </item>
     <item>
       <title>nslookup</title>
-      <link>https://theredhare.github.io/commands/nslookup-basic/</link>
+      <link>http://localhost:1313/commands/nslookup-basic/</link>
       <pubDate>Thu, 23 May 2024 10:00:00 +0000</pubDate>
-      <guid>https://theredhare.github.io/commands/nslookup-basic/</guid>
+      <guid>http://localhost:1313/commands/nslookup-basic/</guid>
       <description></description>
     </item>
     <item>
       <title>rpcclient</title>
-      <link>https://theredhare.github.io/commands/rpcclient-basic/</link>
+      <link>http://localhost:1313/commands/rpcclient-basic/</link>
       <pubDate>Thu, 23 May 2024 10:00:00 +0000</pubDate>
-      <guid>https://theredhare.github.io/commands/rpcclient-basic/</guid>
+      <guid>http://localhost:1313/commands/rpcclient-basic/</guid>
       <description></description>
     </item>
     <item>
       <title>SMBClient No Creds</title>
-      <link>https://theredhare.github.io/commands/smbclient-nocreds/</link>
+      <link>http://localhost:1313/commands/smbclient-nocreds/</link>
       <pubDate>Thu, 23 May 2024 10:00:00 +0000</pubDate>
-      <guid>https://theredhare.github.io/commands/smbclient-nocreds/</guid>
+      <guid>http://localhost:1313/commands/smbclient-nocreds/</guid>
       <description></description>
     </item>
   </channel>

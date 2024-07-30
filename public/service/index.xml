@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Service on Vagabond Security Research</title>
-    <link>https://theredhare.github.io/service/</link>
+    <link>http://localhost:1313/service/</link>
     <description>Recent content in Service on Vagabond Security Research</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://theredhare.github.io/service/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/service/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DNS</title>
-      <link>https://theredhare.github.io/service/dns/</link>
+      <link>http://localhost:1313/service/dns/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://theredhare.github.io/service/dns/</guid>
+      <guid>http://localhost:1313/service/dns/</guid>
       <description>Content about DNS service goes here.</description>
     </item>
     <item>
       <title>Kerberos</title>
-      <link>https://theredhare.github.io/service/kerberos/</link>
+      <link>http://localhost:1313/service/kerberos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://theredhare.github.io/service/kerberos/</guid>
+      <guid>http://localhost:1313/service/kerberos/</guid>
       <description>Content about Kerberos service goes here.</description>
     </item>
     <item>
       <title>LDAP</title>
-      <link>https://theredhare.github.io/service/ldap/</link>
+      <link>http://localhost:1313/service/ldap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://theredhare.github.io/service/ldap/</guid>
+      <guid>http://localhost:1313/service/ldap/</guid>
       <description>Content about LDAP service goes here.</description>
     </item>
     <item>
       <title>RPC</title>
-      <link>https://theredhare.github.io/service/rpc/</link>
+      <link>http://localhost:1313/service/rpc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://theredhare.github.io/service/rpc/</guid>
+      <guid>http://localhost:1313/service/rpc/</guid>
       <description>Content about RPC service goes here.</description>
     </item>
     <item>
       <title>SMB</title>
-      <link>https://theredhare.github.io/service/smb/</link>
+      <link>http://localhost:1313/service/smb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://theredhare.github.io/service/smb/</guid>
+      <guid>http://localhost:1313/service/smb/</guid>
       <description>Content about SMB service goes here.</description>
     </item>
   </channel>
